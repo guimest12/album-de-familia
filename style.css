@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #album {
+    margin: 20px auto;
+    width: 300px;
+  }
+  
+  #photo {
+    width: 100%;
+    height: auto;
+    border: 1px solid #333;
+  }
+  
+  #name {
+    margin-top: 10px;
+    color: #777;
+  }
+  
+  #nextButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #nextButton:hover {
+    background-color: #555;
+  }
+  
